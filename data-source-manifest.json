@@ -1,0 +1,13 @@
+{
+  "purpose": "Baseline reference only; private source data is not included in repository",
+  "snapshot": {
+    "date": "2026-10-08",
+    "schema_version": "1.0.0",
+    "venue_count": 1118,
+    "city_count": 21,
+    "istanbul_count": 235,
+    "sha256": "0ace28298acb20e323b53ccc19d522d47796009849f545ca772ee6d699fb8607"
+  },
+  "expected_local_relative_path": "../lezzet_dataset_v1/dataset.json",
+  "source_url": "https://kulturyolufestivali.com/taste-points"
+}

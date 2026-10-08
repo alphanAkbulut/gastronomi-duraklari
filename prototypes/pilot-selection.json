@@ -1,0 +1,105 @@
+{
+  "selection_note": "Amaçlı UX ve veri kalitesi örneklemi; temsilî istatistiksel örneklem veya öneri sıralaması değildir. 16 kayıt tasarımda, 4 şüpheli kayıt yalnız inceleme listesinde. Bölge filtreleri ham adres metninde arar; resmî ilçe doğrulaması değildir. Yemek türü, kalite, fiyat veya ziyaret deneyimi doğrulanmadı.",
+  "records": [
+    {
+      "venue_id": "94cf61ab-f09f-5af1-9e76-13845e1fe521",
+      "include_in_preview": true,
+      "reason": "Farklı ham adres ve isim yapılarıyla keşif arayüzü denemesi."
+    },
+    {
+      "venue_id": "1158c3b5-a097-52f5-8fad-d2de9edf0e94",
+      "include_in_preview": true,
+      "reason": "Farklı ham adres ve isim yapılarıyla keşif arayüzü denemesi."
+    },
+    {
+      "venue_id": "69a39828-cabd-579d-bb9c-0cb9e90f2310",
+      "include_in_preview": true,
+      "reason": "Farklı ham adres ve isim yapılarıyla keşif arayüzü denemesi."
+    },
+    {
+      "venue_id": "9f72dd19-4adc-5fe3-a900-2515ebf2e551",
+      "include_in_preview": true,
+      "reason": "Farklı ham adres ve isim yapılarıyla keşif arayüzü denemesi."
+    },
+    {
+      "venue_id": "f2a8f99d-c38e-5a70-81ad-de9f37d1a1ee",
+      "include_in_preview": true,
+      "reason": "Farklı ham adres ve isim yapılarıyla keşif arayüzü denemesi."
+    },
+    {
+      "venue_id": "0af3db79-2566-53c8-acf2-6d902f1896a3",
+      "include_in_preview": true,
+      "reason": "Farklı ham adres ve isim yapılarıyla keşif arayüzü denemesi."
+    },
+    {
+      "venue_id": "a17cff13-6d93-5848-99e4-95a3a0c110bc",
+      "include_in_preview": true,
+      "reason": "Farklı ham adres ve isim yapılarıyla keşif arayüzü denemesi."
+    },
+    {
+      "venue_id": "554286ea-af56-5114-84f6-82066d482c68",
+      "include_in_preview": true,
+      "reason": "Farklı ham adres ve isim yapılarıyla keşif arayüzü denemesi."
+    },
+    {
+      "venue_id": "6a1f536d-a035-5360-b83c-d1ec406f3367",
+      "include_in_preview": true,
+      "reason": "Farklı ham adres ve isim yapılarıyla keşif arayüzü denemesi."
+    },
+    {
+      "venue_id": "142b9669-1452-5a2c-a810-4ea88cd06b40",
+      "include_in_preview": true,
+      "reason": "Farklı ham adres ve isim yapılarıyla keşif arayüzü denemesi."
+    },
+    {
+      "venue_id": "4a9079e5-4f74-5740-b880-63bdadfb55c5",
+      "include_in_preview": true,
+      "reason": "Farklı ham adres ve isim yapılarıyla keşif arayüzü denemesi."
+    },
+    {
+      "venue_id": "48e630ac-890b-5946-ad83-de38c918f206",
+      "include_in_preview": true,
+      "reason": "Farklı ham adres ve isim yapılarıyla keşif arayüzü denemesi."
+    },
+    {
+      "venue_id": "fd43e603-6c61-536e-b8b8-1c96502f4103",
+      "include_in_preview": true,
+      "reason": "Farklı ham adres ve isim yapılarıyla keşif arayüzü denemesi."
+    },
+    {
+      "venue_id": "b55c8615-da31-5f8f-b36d-5bc5253ec0b2",
+      "include_in_preview": true,
+      "reason": "Farklı ham adres ve isim yapılarıyla keşif arayüzü denemesi."
+    },
+    {
+      "venue_id": "8e4d7793-694d-5425-921b-47952a62c4f8",
+      "include_in_preview": true,
+      "reason": "Farklı ham adres ve isim yapılarıyla keşif arayüzü denemesi."
+    },
+    {
+      "venue_id": "a3a6e31e-173b-502f-8826-8fa3ad669c67",
+      "include_in_preview": true,
+      "reason": "Farklı ham adres ve isim yapılarıyla keşif arayüzü denemesi."
+    },
+    {
+      "venue_id": "ca168c66-7d9a-55ad-ab58-7eef693f51ed",
+      "include_in_preview": false,
+      "reason": "Aynı harita URL’si farklı adlı başka kayıtla paylaşılmış; şube eşleşmesi incelemesi."
+    },
+    {
+      "venue_id": "31056d06-7000-508e-b8b7-e61328b265ec",
+      "include_in_preview": false,
+      "reason": "Aynı harita URL’si farklı adlı başka kayıtla paylaşılmış; şube eşleşmesi incelemesi."
+    },
+    {
+      "venue_id": "41aceff9-d193-57c7-a256-84313e4abfb0",
+      "include_in_preview": false,
+      "reason": "İstanbul kaydı; ham adreste Meram/Konya yazıyor. Şehir çelişkisi, kaynak korunarak incele."
+    },
+    {
+      "venue_id": "d7705054-e5ea-5a0f-ab76-0b5223b90f6c",
+      "include_in_preview": false,
+      "reason": "Benzer adlı diğer döner kaydıyla olası ilişki incelenecek; isim benzerliği birleştirme kanıtı değildir."
+    }
+  ]
+}
